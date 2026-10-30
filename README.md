@@ -14,12 +14,12 @@ The activities were completed in the NetworkWalks training labs using the traffi
 
 | Lab | Scenario / focus | Wireshark analysis practiced |
 |---|---|---|
-| 3 — Identify the Attacker's IP | Investigate unusual connections to a web server | TCP SYN and SYN-ACK flags, RST-ACK responses, destination ports, source IPs, and signs of port scanning |
-| 4 — Follow TCP Stream, Part 1 | Reconstruct a plaintext office chat | TCP Conversations, stream IDs, Follow TCP Stream, client/server directions |
-| 5 — Follow TCP Stream, Part 2 | Find a hidden note in an intranet page | HTTP GET requests, HTML responses, TCP streams, and hidden HTML comments |
-| 6 — HTTP Plain Text Credentials | Examine sign-in requests to an old staff portal | HTTP GET vs POST, form-encoded data, repeated login submissions, and exposure from unencrypted HTTP |
-| 7 — Catch the Brute Force Attacker | Investigate repeated failed FTP sign-ins | FTP USER/PASS commands, `530` failures, server/client IPs, and login outcomes |
-| 8 — Catch the Call Scammer | Investigate a VoIP call | SIP INVITE and call setup, RTP packets, codec details, and call reconstruction |
+| 3) Identify the Attacker's IP | Investigate unusual connections to a web server | TCP SYN and SYN-ACK flags, RST-ACK responses, destination ports, source IPs, and signs of port scanning |
+| 4) Follow TCP Stream, Part 1 | Reconstruct a plaintext office chat | TCP Conversations, stream IDs, Follow TCP Stream, client/server directions |
+| 5) Follow TCP Stream, Part 2 | Find a hidden note in an intranet page | HTTP GET requests, HTML responses, TCP streams, and hidden HTML comments |
+| 6) HTTP Plain Text Credentials | Examine sign-in requests to an old staff portal | HTTP GET vs POST, form-encoded data, repeated login submissions, and exposure from unencrypted HTTP |
+| 7)  Catch the Brute Force Attacker | Investigate repeated failed FTP sign-ins | FTP USER/PASS commands, `530` failures, server/client IPs, and login outcomes |
+| 8)  Catch the Call Scammer | Investigate a VoIP call | SIP INVITE and call setup, RTP packets, codec details, and call reconstruction |
 
 ## Tools and features used
 
