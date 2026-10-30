@@ -1,7 +1,7 @@
-# NetworkWalks Week 1 — Wireshark SOC Project Module (Extra)
+# NetworkWalks Week 1: Wireshark SOC Project Module (Extra)
 
 **Program:** NetworkWalks Cybersecurity Internship  
-**Module:** Week 1 — SOC Project Module, Wireshark (Extra)  
+**Module:** Week 1: SOC Project Module, Wireshark (Extra)  
 **Status:** Completed interactive lab activities
 
 ## Project overview
